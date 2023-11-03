@@ -1,0 +1,6 @@
+Consumo de área da FPGA: 
+Logic elements: 8
+Pinos: 25
+
+Atraso crítico: 
+9.920ns (FALL Sel - RISE S[2])
