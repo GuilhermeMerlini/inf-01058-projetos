@@ -1,0 +1,1 @@
+A ULA usa 16 pinos e 11 elementos lógicos, com atraso crítico de 8.532 ns (B[1] FALL - Z FALL)
