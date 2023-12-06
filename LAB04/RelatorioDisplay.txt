@@ -1,0 +1,3 @@
+Área total: 18 elementos lógicos e 23 pinos
+
+Atraso crítico: 9.297ns (op[0] FALL - S[1] FALL)
