@@ -1,0 +1,2 @@
+Área total: 47 elementos lógicos e 3 pinos
+Atraso crítico: 3.892ns
