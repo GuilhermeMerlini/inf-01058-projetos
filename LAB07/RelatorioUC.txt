@@ -1,0 +1,6 @@
+Área:
+35 elementos lógicos
+4 registradores
+47 pinos
+
+Atraso crítico: Z (FALL) - incrementa_PC (RISE)
