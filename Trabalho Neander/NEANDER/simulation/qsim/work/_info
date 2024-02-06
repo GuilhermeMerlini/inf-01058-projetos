@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Documents\Projetos\Quartus\NEANDER\simulation\qsim
+vProjeto
+Z1 IOBZb:Bmnm_BA5YTi_fL>z2
+Z2 V1OjCiU2o`59mYemhOnL0c3
+Z3 dC:\Users\User\Documents\Projetos\Quartus\NEANDER\simulation\qsim
+Z4 w1707178788
+Z5 8NEANDER.vo
+Z6 FNEANDER.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|NEANDER.vo|
+Z9 o-work work -O0
+Z10 n@projeto
+!i10b 1
+Z11 !s100 GSg[6LJV49E1TVWWG[[ED3
+!s85 0
+Z12 !s108 1707178789.166000
+Z13 !s107 NEANDER.vo|
+!s101 -O0
+vProjeto_vlg_check_tst
+!i10b 1
+!s100 ?ZKljRCCmeK<XkSCEH43J3
+IjX_6C5M=nIcSnRMD94IIQ3
+V`Cl=[h_a:X9N=f2ncb=bf0
+R3
+Z14 w1707178787
+Z15 8NEANDER.vt
+Z16 FNEANDER.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1707178789.245000
+Z18 !s107 NEANDER.vt|
+Z19 !s90 -work|work|NEANDER.vt|
+!s101 -O0
+R9
+Z20 n@projeto_vlg_check_tst
+vProjeto_vlg_sample_tst
+!i10b 1
+!s100 SHXH1NoBBL5QmOo8EoaOW3
+IfB7Z3zY^X@XLg2KIMzKzS0
+VobmcnJC[cg_E:j4UG]1eX0
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z21 n@projeto_vlg_sample_tst
+vProjeto_vlg_vec_tst
+Z22 IIYQ4nN=gj[JJ<B3^>>7IX0
+Z23 VX?_OE;RQcG8ZnU5V?h[YV2
+R3
+Z24 w1706972363
+R15
+R16
+Z25 L0 1692
+R7
+r1
+31
+Z26 !s108 1706972364.424000
+Z27 !s107 NEANDER.vt|
+R19
+R9
+Z28 n@projeto_vlg_vec_tst
+Z29 !s100 OUh31h[[KAG_4?UTkMWF?3
+!i10b 1
+!s85 0
+!s101 -O0

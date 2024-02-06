@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="NEANDER">
-		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto|ULA:inst2|BUSMUX:inst4|lpm_mux:$00000" CBX_FILE_NAME="mux_5qc.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto|ULA:inst2|BUSMUX:inst7|lpm_mux:$00000" CBX_FILE_NAME="mux_5qc.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto|ULA:inst2|BUSMUX:inst8|lpm_mux:$00000" CBX_FILE_NAME="mux_5qc.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto|ULA:inst2|BUSMUX:inst|lpm_mux:$00000" CBX_FILE_NAME="mux_5qc.tdf"/>
-	</PROJECT>
-</LOG_ROOT>
